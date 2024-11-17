@@ -38,7 +38,5 @@ def get_input_args():
     parser.add_argument("--dir", type=str, default="pet_images/", help="Path to the pet images folder")
     parser.add_argument("--arch", type=str, default="alexnet", help="Select the CNN Architecture")
     parser.add_argument("--dogfile", type=str, default="list_dognames.txt", help="Put folder with the list of dognames")
-
-    # Replace None with parser.parse_args() parsed argument collection that 
-    # you created with this function 
+    
     return parser.parse_args()
