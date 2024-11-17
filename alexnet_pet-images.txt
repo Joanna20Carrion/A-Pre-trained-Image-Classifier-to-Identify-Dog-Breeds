@@ -328,5 +328,5 @@ pct_correct_dogs 100.0
 pct_correct_breed 77.77777777777779
 pct_correct_notdogs 100.0
 
-Total Elapsed Runtime: 16.690450429916382 in seconds.
-0:0:17
+Total Elapsed Runtime: 16.680657859916493 in seconds.
+0:0:18
