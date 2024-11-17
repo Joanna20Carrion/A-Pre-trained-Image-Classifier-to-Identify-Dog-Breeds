@@ -36,7 +36,7 @@ def get_input_args():
     """
     parser = argparse.ArgumentParser()
     parser.add_argument("--dir", type=str, default="pet_images/", help="Path to the pet images folder")
-    parser.add_argument("--arch", type=str, default="alexnet", help="Select the CNN architecture")
+    parser.add_argument("--arch", type=str, default="vgg", help="Select the CNN architecture")
     parser.add_argument("--dogfile", type=str, default="list_dognames.txt", help="Name of the folder with the list of dognames")
     
     return parser.parse_args()
