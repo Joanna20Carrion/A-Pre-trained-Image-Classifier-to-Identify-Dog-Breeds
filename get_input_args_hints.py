@@ -53,7 +53,7 @@ def get_input_args():
     #          --arch - the CNN model architecture
     #          --dogfile - text file of names of dog breeds
     parser.add_argument('--arch', default = 'vgg' )
-    parser.add_argument('--dogfile', default = 'dognames.txt' )
+    parser.add_argument('--dogfile', default = 'list_dognames.txt' )
 
     # TODO: 1b. Replace None with parser.parse_args() parsed argument 
     # collection that you created with this function 
