@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# calculates_results_stats_hints.py
+# */AIPND-revision/intropyproject-classify-pet-images/calculates_results_stats_hints.py
 #                                                                             
 # PROGRAMMER:Joanna Carrion
-#
+# DATE CREATED:                               
+# REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function calculates_results_stats that calculates the statistics
 #          of the results of the programrun using the classifier's model 
