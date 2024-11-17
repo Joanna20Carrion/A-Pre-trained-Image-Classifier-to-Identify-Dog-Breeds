@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/print_results_hints.py
 #                                                                             
-# PROGRAMMER: Klein T Kugara
-# DATE CREATED: 11 July 2023
+# PROGRAMMER: Joanna Carrion
+# DATE CREATED:
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function print_results that prints the results statistics from the
