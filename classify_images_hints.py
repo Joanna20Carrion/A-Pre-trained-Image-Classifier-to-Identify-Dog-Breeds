@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND-revision/intropyproject-classify-pet-images/classify_images_hints.py
 #                                                                             
-# PROGRAMMER: Klein T Kugara
-# DATE CREATED:  06 June 2023                               
+# PROGRAMMER: Joanna Carrion
+# DATE CREATED:                              
 # REVISED DATE: 
 # PURPOSE: This is a *hints* file to help guide students in creating the 
 #          function classify_images that uses the classifier function 
