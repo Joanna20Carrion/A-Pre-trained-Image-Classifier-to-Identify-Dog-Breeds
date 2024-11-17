@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# check_images.py
+# */AIPND-revision/intropyproject-classify-pet-images/check_images.py
 #                                                                             
 # PROGRAMMER:Joanna Carrion 
-# 
+# DATE CREATED:                                  
+# REVISED DATE: 
 # PURPOSE: Classifies pet images using a pretrained CNN model, compares these
 #          classifications to the true identity of the pets in the images, and
 #          summarizes how well the CNN performed on the image classification task. 
